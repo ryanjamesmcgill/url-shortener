@@ -1,4 +1,4 @@
-# API Basejump: Request Header Parser Microservice aka 'whoami'
+# API Basejump: URL Shortener Microservice
 
 <strong>live demo:</strong> <a href="http://url-shortener-rjm.herokuapp.com/">http://url-shortener-rjm.herokuapp.com/</a>
 
