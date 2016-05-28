@@ -1,0 +1,11 @@
+{
+  "name": "url-shortener",
+  "description": "freecodecamp.com project, url-shortening microservice",
+  "repository": "https://github.com/ryanjamesmcgill/url-shortener.git",
+  "logo": "",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "image": "heroku/nodejs"
+}

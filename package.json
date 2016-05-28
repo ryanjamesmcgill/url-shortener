@@ -1,0 +1,26 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "freecodecamp.com project, url-shortening microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanjamesmcgill/url-shortener.git"
+  },
+  "author": "Ryan McGill <ryanjamesmcgill@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanjamesmcgill/url-shortener/issues"
+  },
+  "homepage": "https://github.com/ryanjamesmcgill/url-shortener#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19",
+    "shorthash": "0.0.2",
+    "validator": "^5.2.0"
+  }
+}
